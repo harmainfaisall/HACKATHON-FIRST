@@ -1,0 +1,1 @@
+This project is a clone of a Figma design built using HTML, CSS, and Bootstrap. It features a clean and modern UI and is fully responsive, ensuring seamless display across all devices. The layout closely follows the original Figma design, providing a pixel-perfect replication and a smooth user experience.
